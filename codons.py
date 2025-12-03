@@ -9,4 +9,4 @@ def create_codon_dict(file_path):
         amino = parts[2]
         codon_dict[codon] = amino
 
-    return codon_dic
+    return codon_dict
